@@ -1,0 +1,30 @@
+body{
+    background-color: #add123;
+}
+
+
+
+div.container{
+
+    background-color: aquamarine;
+    text-align: center;
+    padding: 60px;   
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 85px;
+    
+}
+
+div.container input{
+    padding: 5px;
+    border-radius: 7px;
+    margin-bottom: 2px;
+}
+
+div.container button{
+    padding: 10px;
+    border-bottom: 5px;
+    border-radius: 7px;
+    background-color: darkolivegreen;
+    color: #ffffff;
+}

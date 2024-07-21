@@ -3,6 +3,7 @@ function sortear(){
     const max = document.getElementById("maximo").value;
     const sort = Math.floor((Math.random()* max) + mim);
 
+   
     document.getElementById("result").innerHTML = sort;
 
 
